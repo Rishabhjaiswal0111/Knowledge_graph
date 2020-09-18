@@ -5,4 +5,4 @@ NOTICE:-
         Create new empty "static" folder in flask directory.
 
 
-https://github.com/Rishabhjaiswal0111/Knowledge_graph/blob/master/KG.PNG?raw=true
+![noice]https://github.com/Rishabhjaiswal0111/Knowledge_graph/blob/master/KG.PNG?raw=true
