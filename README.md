@@ -5,3 +5,5 @@ NOTICE:-
         Create new empty "static" folder in flask directory.
 
 Output_pics/KG.JPG
+
+KG.PNG
